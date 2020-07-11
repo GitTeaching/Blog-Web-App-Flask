@@ -1,2 +1,5 @@
 # Blog-Web-App-Flask
-Blog web application using Flask framework - Python
+
+Python Blog Web application using Flask framework.
+
+Deployed on PythonAnywhere : http://hedia89.pythonanywhere.com/
