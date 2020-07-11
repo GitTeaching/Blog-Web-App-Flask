@@ -1,6 +1,6 @@
 # Blog-Web-App-Flask
 
-Python Blog Web application using Flask framework.
+Python Blog Web application using Flask framework and SQL Alchemy.
 
 Deployed project - Final : https://github.com/GitTeaching/Blog-Web-App-Flask-Deployment
 
